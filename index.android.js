@@ -95,7 +95,7 @@ class WeatherApp extends Component {
   getWeather(data){
     if(data.city!=null){
 
-      return fetch('http://ns3005500.ip-151-80-100.eu:3000/weather?lat='+data.coords.lat+'&lng='+data.coords.lng)
+      return fetch('http://adress-server-to-change/weather?lat='+data.coords.lat+'&lng='+data.coords.lng)
           .then((response) => response.json())
           .then((responseJson) => {
               console.log(responseJson)
