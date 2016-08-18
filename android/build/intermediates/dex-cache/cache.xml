@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_e9a8406ee67abefdb6716b306e6b7fd97f25857d.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_a0375932e8dc3a7387a0c4ca95361f1d72bdbf7a.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.11.0_d7b15d3b82d915cdd2d2ce99237a36a65b91c531.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.11.0_5140b7779edbdd8cc59cb90b00145b68640e49a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_07c11de7190cbadfeb1c434a063dd8300ebd7472.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.11.0_88f6e8bb983d04a366363716914c9c5d386ea6e7.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.31.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_a7c1909aac31b4ca71d2b19cd2aef3b9fe739342.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_790beac9067a63f141283eaa31548a87b5085918.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_6873fb6bf3eab88d9350b7af62af1e61fc11036d.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.11.0_32d7a7d30c71a274e9002203cfbe0c6a6a73aec8.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_db0553b7cd20c7db6f55469001b7ed6ee6c486ad.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-0.11.0_21b914facdc096209c23e54bfd0ddc3340ff1a38.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.31.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.31.0_7549a6870b1202f34139805e83bf6965334d37d2.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_8d40e29b8e467b5743ecb689c7d9ac1130f5982c.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_d7b6153c7724649666bd890d3c9d003075c00644.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_77239108773d71996b606e44fa2dfd87e4b05c8e.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_382d08e8e0e4a678b0dcbb4b62da59ec57645f55.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a9108e5e1cdf1213f0e77c5d25d11b88dc9abebe.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.11.0_3286b33e86101eb7a773aeccc5162f4f43f20f05.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3_2df5d4577d8b417d61c59097738b2620454ac21f.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_fcc7cbbb01b883c34d9f4e48b92af7feaa50d6f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\20107\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Dropbox\wamp\www\Application meteo React JS\weather-app\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_b62ab0de53a394cba0a4f4de779d63c725813fa7.jar" />
+    </item>
+
+</items>
